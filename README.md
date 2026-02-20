@@ -10,8 +10,12 @@ Quick Links:
 
 View it live at:
 https://github.com/Tekalignewoldemariam-dev/discover-ethiopia-tour-website
+
+
  GitHub Repository name is:
+ 
 discover-ethiopia-tour-website
+
  URL: https://github.com/Tekalignewoldemariam-dev/discover-ethiopia-tour-website
 
 Important Note: This is a dynamic PHP/MySQL website. GitHub Pages only hosts static sites, so the live demo will be  hosted on InfinityFree (free PHP hosting).
@@ -154,7 +158,7 @@ Step 2: Clone or Download
 
 
 
-git clone https://github.com/Tekalignewoldemariam/discover-ethiopia-tour-website.git
+git clone https://github.com/Tekalignewoldemariam-dev/discover-ethiopia-tour-website
 
 
 
